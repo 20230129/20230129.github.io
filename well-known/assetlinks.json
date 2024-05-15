@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.todoria.my_app",
+      "sha256_cert_fingerprints": [
+        "72:3D:FE:83:A2:AF:29:41:A6:F9:56:10:E1:9B:8A:BE:B0:F2:8B:9D:6B:BE:FB:C0:20:06:03:B5:8B:31:53:E9"
+      ]
+    }
+  }
+]
